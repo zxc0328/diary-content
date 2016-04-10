@@ -19,3 +19,6 @@ Table of Content
 ### April
 
 + **1**, After thought of watching JavaScript Air Episode 012:Lodash & Open Source
++ **2**, 背包问题与动态规划
++ **4**, Optimization for V8 && V8 resources
++ **9**, Lambda Calculus
