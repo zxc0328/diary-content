@@ -22,3 +22,8 @@ Table of Content
 + **2**, 背包问题与动态规划
 + **4**, Optimization for V8 && V8 resources
 + **9**, Lambda Calculus
++ **11**, Notes on YDKJS:Types & Grammar part 1
++ **15**, Side Effect && Immutable
++ **21**, DOM properties vs attributes
++ **25**, 关于组件化的一些想法&&jQuery的构造函数
+
