@@ -42,3 +42,4 @@ Table of Content
 
 + **1**, [jQuery源码阅读笔记（二）](http://zxc0328.github.io/diary/2016/05/2016-05-01.html)
 + **16**, [Angular 1.x中的双向数据绑定实现](http://zxc0328.github.io/diary/2016/05/2016-05-16.html)
++ **17**, [前端框架模板技术分类](http://zxc0328.github.io/diary/2016/05/2016-05-17.html)
