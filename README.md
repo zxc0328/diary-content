@@ -49,3 +49,9 @@ Table of Content
 + **20**, [After thought of watching JavaScript Air Episode 006: Introducing the JavaScript Air Panel](http://zxc0328.github.io/diary/2016/05/2016-05-20.html)
 
 + **21**, [URL中文编码问题](http://zxc0328.github.io/diary/2016/05/2016-05-21.html)
+
++ **30**, [Nodejs require() 原理](http://zxc0328.github.io/diary/2016/05/2016-05-30.html)
+
+### June
+
++ **1**, [CSS workflow](http://zxc0328.github.io/diary/2016/06/2016-06-01.html)
