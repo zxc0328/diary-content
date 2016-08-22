@@ -68,4 +68,8 @@ Table of Content
 
 ### August
 
-+ **18**, [XSS & CSRF, Cookie & LocalStroge](http://zxc0328.github.io/diary/2016/08/2016-08-16.html)
++ **16**, [XSS & CSRF, Cookie & LocalStroge](http://zxc0328.github.io/diary/2016/08/2016-08-16.html)
+
++ **17**, [inside JavaScript `delete` ](http://zxc0328.github.io/diary/2016/08/2016-08-17.html)
+
++ **22**, [React `shouldComponentUpdate()`](http://zxc0328.github.io/diary/2016/08/2016-08-22.html)
