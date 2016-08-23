@@ -73,3 +73,5 @@ Table of Content
 + **17**, [inside JavaScript `delete` ](http://zxc0328.github.io/diary/2016/08/2016-08-17.html)
 
 + **22**, [React `shouldComponentUpdate()`](http://zxc0328.github.io/diary/2016/08/2016-08-22.html)
+
++ **23**, [`Etag` `Last-Modified` and more on caching](http://zxc0328.github.io/diary/2016/08/2016-08-23.html)
