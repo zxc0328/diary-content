@@ -75,3 +75,7 @@ Table of Content
 + **22**, [React `shouldComponentUpdate()`](http://zxc0328.github.io/diary/2016/08/2016-08-22.html)
 
 + **23**, [`Etag` `Last-Modified` and more on caching](http://zxc0328.github.io/diary/2016/08/2016-08-23.html)
+
+### September
+
++ **8**, [Levenshtein distance && MVVM list diff](http://zxc0328.github.io/diary/2016/08/2016-09-08.html)
