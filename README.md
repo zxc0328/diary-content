@@ -79,3 +79,5 @@ Table of Content
 ### September
 
 + **8**, [Levenshtein distance && MVVM list diff](http://zxc0328.github.io/diary/2016/08/2016-09-08.html)
+
++ **21**, [长列表渲染](http://zxc0328.github.io/diary/2016/08/2016-09-21.html)
