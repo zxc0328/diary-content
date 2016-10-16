@@ -78,6 +78,12 @@ Table of Content
 
 ### September
 
-+ **8**, [Levenshtein distance && MVVM list diff](http://zxc0328.github.io/diary/2016/08/2016-09-08.html)
++ **8**, [Levenshtein distance && MVVM list diff](http://zxc0328.github.io/diary/2016/09/2016-09-08.html)
 
-+ **21**, [长列表渲染](http://zxc0328.github.io/diary/2016/08/2016-09-21.html)
++ **21**, [长列表渲染](http://zxc0328.github.io/diary/2016/09/2016-09-21.html)
+
+### October
+
++ **2**, [Vue源码分析Links](http://zxc0328.github.io/diary/2016/10/2016-10-02.html)
+
++ **16**, [MVVM框架中的异步更新](http://zxc0328.github.io/diary/2016/10/2016-10-16.html)
