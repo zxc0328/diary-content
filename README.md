@@ -87,3 +87,9 @@ Table of Content
 + **2**, [Vue源码分析Links](http://zxc0328.github.io/diary/2016/10/2016-10-02.html)
 
 + **16**, [MVVM框架中的异步更新](http://zxc0328.github.io/diary/2016/10/2016-10-16.html)
+
+### November
+
++ **2**, [知乎Live的技术栈](http://zxc0328.github.io/diary/2016/11/2016-11-02.html)
+
++ **16**, [Weinre的用法，以及vue build时的一些小事故](http://zxc0328.github.io/diary/2016/11/2016-11-03.html)
