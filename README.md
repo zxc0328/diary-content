@@ -92,4 +92,11 @@ Table of Content
 
 + **2**, [知乎Live的技术栈](http://zxc0328.github.io/diary/2016/11/2016-11-02.html)
 
-+ **16**, [Weinre的用法，以及vue build时的一些小事故](http://zxc0328.github.io/diary/2016/11/2016-11-03.html)
++ **3**, [Weinre的用法，以及vue build时的一些小事故](http://zxc0328.github.io/diary/2016/11/2016-11-03.html)
+
++ **4**, [Thought after watching CSS for Software Engineers for CSS Developers by Harry Roberts](http://zxc0328.github.io/diary/2016/11/2016-11-04.html)
+
+### December
+
++ **6**, [Vue源码结构整理](http://zxc0328.github.io/diary/2016/12/2016-12-06.html)
+
