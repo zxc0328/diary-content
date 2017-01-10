@@ -6,6 +6,8 @@ Table of Content
 
 ### January
 
++ **10**, [《忍者秘籍》第二版笔记 第三章](http://zxc0328.github.io/diary/2017/01/2017-01-10.html)
+
 ## 2016
 
 ### March
