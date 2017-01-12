@@ -8,6 +8,8 @@ Table of Content
 
 + **10**, [《忍者秘籍》第二版笔记 第三章](http://zxc0328.github.io/diary/2017/01/2017-01-10.html)
 
++ **12**, [CSAPP笔记 & 《忍者秘籍》笔记](http://zxc0328.github.io/diary/2017/01/2017-01-12.html)
+
 ## 2016
 
 ### March
