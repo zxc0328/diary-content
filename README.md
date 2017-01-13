@@ -10,6 +10,8 @@ Table of Content
 
 + **12**, [CSAPP笔记 & 《忍者秘籍》笔记](http://zxc0328.github.io/diary/2017/01/2017-01-12.html)
 
++ **13**, [Vue渲染源码相关](http://zxc0328.github.io/diary/2017/01/2017-01-13.html)
+
 ## 2016
 
 ### March
