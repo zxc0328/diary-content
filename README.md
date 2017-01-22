@@ -12,6 +12,10 @@ Table of Content
 
 + **13**, [Vue渲染源码相关](http://zxc0328.github.io/diary/2017/01/2017-01-13.html)
 
++ **19**, [<script> tag的async和defer区别以及浏览器相关](https://github.com/zxc0328/diary-content/issues/1)
+
++ **22**, [Trie树](https://github.com/zxc0328/diary-content/issues/2)
+
 ## 2016
 
 ### March
