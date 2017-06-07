@@ -4,6 +4,14 @@ Table of Content
 
 ## 2017
 
+### June
+
++ **7**, [ES6 Proxy，以及在Vue中的使用](http://zxc0328.github.io/diary/2017/06/2017-06-07.html)
+
+### April
+
++ **12**, [Linux System Programming 读书笔记](http://zxc0328.github.io/diary/2017/04/2017-04-12.html)
+
 ### January
 
 + **10**, [《忍者秘籍》第二版笔记 第三章](http://zxc0328.github.io/diary/2017/01/2017-01-10.html)
