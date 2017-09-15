@@ -4,6 +4,10 @@ Table of Content
 
 ## 2017
 
+### September
+
++ **15**, [Vue community diary: a tricky edge case with vdom event(#6566)](http://zxc0328.github.io/diary/2017/09/2017-09-15.html)
+
 ### June
 
 + **23**, [《前端工程中的编译时优化》观后感](http://zxc0328.github.io/diary/2017/07/2017-07-23.html)
