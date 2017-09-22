@@ -6,6 +6,7 @@ Table of Content
 
 ### September
 
++ **22**, [Vue community diary: directive hooks not called when component root element change (#6513), Why Vue need to update parent placeholder node element when component root element replaced?](http://zxc0328.github.io/diary/2017/09/2017-09-22.html)
 + **20**, [Regular Template Syntax](http://zxc0328.github.io/diary/2017/09/2017-09-20.html)
 + **19**, [MUI Table组件：slot内容的跨级传递](http://zxc0328.github.io/diary/2017/09/2017-09-19.html)
 + **18**, [Vue community diary: avoid VNode in data (#6610)&& deep clone slot vnodes on re-render(#6372)](http://zxc0328.github.io/diary/2017/09/2017-09-18.html)
