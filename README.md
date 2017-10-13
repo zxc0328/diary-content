@@ -4,6 +4,11 @@ Table of Content
 
 ## 2017
 
+### October
+
++ **13**, [《忍者秘籍》第二版笔记 第四章](http://zxc0328.github.io/diary/2017/10/2017-10-13.html)
++ **08**, [DATABASE SYSTEMS Lecture 06: Storage笔记](http://zxc0328.github.io/diary/2017/10/2017-10-08.html)
+
 ### September
 
 + **23**, [Vue vdom hook小记](http://zxc0328.github.io/diary/2017/09/2017-09-23.html)
