@@ -4,6 +4,10 @@ Table of Content
 
 ## 2017
 
+### November 
+
++ **15**, [Liso源码阅读笔记](http://zxc0328.github.io/diary/2017/11/2017-11-11.html)
+
 ### October
 
 + **13**, [《忍者秘籍》第二版笔记 第四章](http://zxc0328.github.io/diary/2017/10/2017-10-13.html)
