@@ -4,6 +4,10 @@ Table of Content
 
 ## 2017
 
+### December
+
++ **16**, [Headless Chrome long image capture issue](http://zxc0328.github.io/diary/2017/12/2017-12-16.html)
+
 ### November 
 
 + **15**, [Liso源码阅读笔记](http://zxc0328.github.io/diary/2017/11/2017-11-11.html)
