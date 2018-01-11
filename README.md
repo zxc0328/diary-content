@@ -2,6 +2,14 @@
 
 Table of Content
 
+## 2018
+
+### January
+
++ **8**, [《忍者秘籍》第二版笔记 第九章](http://zxc0328.github.io/diary/2018/01/2018-01-08.html)
+
++ **7**, [SEE Conf 2018 回顾](http://zxc0328.github.io/diary/2018/01/2017-01-07.html)
+
 ## 2017
 
 ### December
