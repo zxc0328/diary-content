@@ -4,6 +4,10 @@ Table of Content
 
 ## 2018
 
+### April
+
++ **03**, [CMU 15-445 Extendible Hash 实现浅析](http://zxc0328.github.io/diary/2018/04/2018-04-03.html)
+
 ### March
 
 + **28**, [Cpp 学习笔记： size_t， std::mutex， explicit， mutable， Disable Object Copy](http://zxc0328.github.io/diary/2018/03/2018-03-28.html)
