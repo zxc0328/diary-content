@@ -2,6 +2,13 @@
 
 Table of Content
 
+## 2019
+
+### January
+
++ **22**, [Go module 学习](http://zxc0328.github.io/diary/2019/01/2019-01-22.html)
+
+
 ## 2018
 
 ### May
