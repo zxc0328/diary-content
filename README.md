@@ -4,6 +4,10 @@ Table of Content
 
 ## 2019
 
+### February
+
++ **21**, [TypeScript 官方 Handbook 阅读笔记（一）](http://zxc0328.github.io/diary/2019/02/2019-02-21.html)
+
 ### January
 
 + **22**, [Go module 学习](http://zxc0328.github.io/diary/2019/01/2019-01-22.html)
