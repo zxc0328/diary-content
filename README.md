@@ -4,6 +4,11 @@ Table of Content
 
 ## 2019
 
+### June
+
++ **08**, [Go Heap 的使用以及其他 Go 知识点小记](https://zxc0328.github.io/diary/2019/06/2019-06-07.html)
+
+
 ### May
 
 + **05**, [Golang 分布式 crontab 课程笔记](https://zxc0328.github.io/diary/2019/05/2019-05-30.html)
