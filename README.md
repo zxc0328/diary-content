@@ -4,6 +4,13 @@ Table of Content
 
 ## 2019
 
+### October
+
++ **06**, [TS 学习总结：编译器](https://zxc0328.github.io/diary/2019/10/2019-10-06.html)
+
++ **05**, [TS 学习总结：编译选项 && 类型相关技巧](https://zxc0328.github.io/diary/2019/10/2019-10-05.html)
+
+
 ### June
 
 + **08**, [Go Heap 的使用以及其他 Go 知识点小记](https://zxc0328.github.io/diary/2019/06/2019-06-07.html)
@@ -11,7 +18,7 @@ Table of Content
 
 ### May
 
-+ **05**, [Golang 分布式 crontab 课程笔记](https://zxc0328.github.io/diary/2019/05/2019-05-30.html)
++ **30**, [Golang 分布式 crontab 课程笔记](https://zxc0328.github.io/diary/2019/05/2019-05-30.html)
 
 ### February
 
