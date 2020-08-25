@@ -2,6 +2,12 @@
 
 Table of Content
 
+## 2020
+
+### August
+
++ **25**, [go-micro 1.x k8s 部署](http://zxc0328.github.io/diary/2020/08/2020-08-25.html)
+
 ## 2019
 
 ### October
