@@ -8,6 +8,10 @@ Table of Content
 
 + **7**, [Konva 源码阅读笔记](http://zxc0328.github.io/diary/2021/03/2021-03-07.html)
 
+### January
+
++ **4**, [Go Plan 9 汇编](http://zxc0328.github.io/diary/2021/01/2021-01-04.html)
+
 ## 2020
 
 ### October
